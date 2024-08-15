@@ -1,0 +1,65 @@
+
+.giris{
+    text-align: center;
+    color: white;
+}
+
+nav{
+    background-color:grey;
+   
+    
+}
+li{
+    list-style:none;
+    padding: 15px;
+    color: black;
+}
+
+.nav_list{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    list-style:none;
+    padding: 15px;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: #282828;
+    font-size: 20px;
+    
+   
+}
+a:hover{
+    color:#444BFF;
+}
+.anlatim{
+    text-align: center;
+}
+h1{
+    color: black;
+}
+h2{
+    color: black;
+}
+p{
+    color: black;
+}
+.label11{
+    padding: 10px;
+    display: flex;
+}
+form{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    padding: 25px;
+}
+button{
+    padding: 2px;
+}
+.message1{
+    margin:15px;
+}
